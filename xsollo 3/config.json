@@ -1,0 +1,12 @@
+
+{
+    "token": "discordApi",
+    "client_id": "Dolix.inc",
+    "guild_id": "Dolix.inc",
+    "role_id": "Dolix.inc",
+    "xsolla": {
+      "merchant_id": "Dolix.inc",
+      "api_key": "Dolix.inc",
+      "project_id": "Dolix.inc"
+    }
+  }
